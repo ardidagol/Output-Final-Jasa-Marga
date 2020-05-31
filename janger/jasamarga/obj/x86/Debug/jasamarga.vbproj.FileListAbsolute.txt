@@ -1,0 +1,490 @@
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Form3.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Coridor.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.ViewPerush.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.User.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Login.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\bin\Debug\jasamarga.exe
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\bin\Debug\jasamarga.pdb
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\bin\Debug\jasamarga.xml
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.exe
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.xml
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.pdb
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.ViewCoridor.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.CRAXDRT.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.CREXPORTLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.CRVIEWERLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\bin\Debug\jasamarga.exe.config
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalDataObject.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.CSELEXPTLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Report_KM.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\Users\MSI\documents\visual studio 2010\Projects\jasamarga\jasamarga\bin\Debug\Interop.Crystal.dll
+C:\Users\MSI\documents\visual studio 2010\Projects\jasamarga\jasamarga\bin\Debug\AxInterop.Crystal.dll
+C:\Users\MSI\documents\visual studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\MSI\documents\visual studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\MSI\documents\visual studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.LaporanBulanan.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+E:\JS\jasamarga\jasamarga\bin\Debug\jasamarga.exe.config
+E:\JS\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+E:\JS\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+E:\JS\jasamarga\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+E:\JS\jasamarga\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+E:\JS\jasamarga\jasamarga\obj\x86\Debug\jasamarga.exe
+E:\JS\jasamarga\jasamarga\obj\x86\Debug\jasamarga.xml
+E:\JS\jasamarga\jasamarga\obj\x86\Debug\jasamarga.pdb
+E:\jasamarga\jasamarga\bin\Debug\jasamarga.exe.config
+E:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+E:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.xml
+E:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.pdb
+G:\jasamarga\jasamarga\bin\Debug\jasamarga.exe.config
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.CRAXDRT.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.CREXPORTLib.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.CRVIEWERLib.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.Crystal.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalDataObject.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.CSELEXPTLib.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\AxInterop.Crystal.dll
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.xml
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.pdb
+G:\jasamarga\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.CariCoridor.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Coridor.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.DeleteUser.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Home.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.LaporanBulanan.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Login.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.Report_KM.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.User.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.ViewCoridor.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.ViewPerush.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\jasamarga.ViewUser.resources
+G:\jasamarga\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\jasamarga\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\jasamarga.exe.config
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CRAXDRT.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CREXPORTLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CRVIEWERLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CrystalDataObject.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CSELEXPTLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.xml
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.pdb
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.CariCoridor.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Coridor.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Home.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanBulanan.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Login.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Report_KM.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\jasamarga.exe
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\jasamarga.pdb
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\jasamarga.xml
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\Interop.Crystal.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\AxInterop.Crystal.dll
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.exe
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Form2.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Form_peta.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+C:\Users\MSI\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.exe.config
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.exe
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.xml
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.pdb
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.exe
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.pdb
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.xml
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbprojResolveAssemblyReference.cache
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form2.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_peta.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanBulanan.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_KM.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.GenerateResource.Cache
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.exe.config
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CRAXDRT.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CREXPORTLib.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CRVIEWERLib.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.Crystal.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalDataObject.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CSELEXPTLib.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\AxInterop.Crystal.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.exe
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.xml
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.pdb
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.exe
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.pdb
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.xml
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\Interop.Crystal.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\AxInterop.Crystal.dll
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form2.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_peta.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanBulanan.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_KM.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form1.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.exe.config
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.exe
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.xml
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.pdb
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.exe
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.pdb
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\bin\Debug\jasamarga.xml
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbprojResolveAssemblyReference.cache
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_peta.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanBulanan.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_KM.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.GenerateResource.Cache
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\KKP JASA MARGA\FILE BACKUP JASAMARGA\3.10.016\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.exe.config
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.exe
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.xml
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.pdb
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_peta.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanBulanan.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.exe
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.pdb
+C:\Documents and Settings\Admin\Desktop\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.xml
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.exe.config
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.exe
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.xml
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.pdb
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.exe
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.pdb
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\bin\Debug\jasamarga.xml
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_peta.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_bulan.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Lokasi.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.form_laporan_periodik.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Reportbulanan.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_Bulanan.resources
+C:\FILE BACKUP JASAMARGA\5.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_bulanan.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\bin\Debug\jasamarga.exe.config
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.exe
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.xml
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.pdb
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_bulanan.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_nama.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\bin\Debug\jasamarga.exe
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\bin\Debug\jasamarga.pdb
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\bin\Debug\jasamarga.xml
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\FILE BACKUP JASAMARGA\10.10.016\janger\jasamarga\obj\x86\Debug\jasamarga.AboutBox1.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\ResGen.read.1.tlog
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\ResGen.write.1.tlog
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.AboutBox1.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_nama.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Report_bulanan.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.exe.config
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.exe.manifest
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.application
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.exe
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.pdb
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.xml
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.exe.manifest
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.application
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.exe
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.xml
+C:\FILE BACKUP JASAMARGA\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.pdb
+F:\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.exe.config
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.exe
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.xml
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.pdb
+F:\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.exe.manifest
+F:\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.application
+F:\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.exe
+F:\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.pdb
+F:\10.10.016 - netfx3\janger\jasamarga\bin\Debug\i.xml
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.AboutBox1.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_nama.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Report_bulanan.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\ResGen.read.1.tlog
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\ResGen.write.1.tlog
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.exe.manifest
+F:\10.10.016 - netfx3\janger\jasamarga\obj\x86\Debug\i.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\i.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\Interop.PAGEOBJECTMODELLib.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\i.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\i.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\i.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\i.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\i.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\i.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\i.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\bin\Debug\i.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.AboutBox1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.admin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Caricoridor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.CariPerusha.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Perush.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.help_koridor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Form_koridor.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_master.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.LaporanKM.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_harian.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.laporan_Jalur.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_nama.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Laporan_Sort_Jalur.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.master_laporan.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Report_bulanan.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.CRKilometer.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.Report_Lokasi.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.log_in.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.RUMAH.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\i.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\i.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\janger\jasamarga\obj\x86\Debug\jasamarga.help.resources
